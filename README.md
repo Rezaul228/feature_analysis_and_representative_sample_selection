@@ -1,4 +1,4 @@
-# masters_research_project
+# Masters Research Project
 # Title
 Data analysis approaches supporting efficient identification of principal components in time-series data. <br>
 ## Goal
