@@ -1,4 +1,4 @@
-# Masters Research Project
+# Efficient feature extraction and representative sample selection ( windows-based ) for Large-Scale Data Analysis
 # Title
 Data analysis approaches supporting efficient identification of principal components in time-series data. <br>
 ## Goal
@@ -9,4 +9,10 @@ In the field of data analysis, one of the most common scenarios is inaccurate de
 
 
 ## Used Technologies
-Python, Java, Scikit-learn, Matplotlib, Xgboost, Decision Trees.
+Python, Java, Scikit-learn, Matplotlib, 
+
+## Used Algorithms 
+Xgboost, Decision Trees, SVM.
+## Others 
+Correlation coefficient, Chebyshev's inequality, Distance function (Jaccard index, Shannon Diversity Index )
+
